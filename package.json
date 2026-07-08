@@ -7,6 +7,6 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "eaglerproxy": "^1.2.0"
+    "eaglerproxy": "git+https://github.com/Eaglerreborn/EaglerProxy.git"
   }
 }

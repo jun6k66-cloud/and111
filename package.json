@@ -1,0 +1,12 @@
+{
+  "name": "eagler-proxy",
+  "version": "1.0.0",
+  "description": "Eaglercraft to Fabric Proxy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "eaglerproxy": "^1.2.0"
+  }
+}

@@ -1,12 +1,12 @@
 {
-  "name": "eagler-proxy",
+  "name": "eagler-proxy-standalone",
   "version": "1.0.0",
-  "description": "Eaglercraft to Fabric Proxy",
+  "description": "Eaglercraft Standalone Proxy",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "eaglerproxy": "git+https://github.com/Eaglerreborn/EaglerProxy.git"
+    "ws": "^8.18.0"
   }
 }
